@@ -5,7 +5,7 @@ package EX3;
  * Exercicio 3
  * Faça um programa Java que envia interrupções para as threads dos exercı́cios anteriores. As threads devem fazer o tratamento dessas interrupções e realizar uma finalização limpa.
  *
- * @author Danilo Sambugaro created on 20/08/2019 inside the package - EX1
+ * @author Danilo Sambugaro created on 20/08/2019 inside the package - EX3
  */
 
 import EX1.MainExercicio1;

@@ -4,7 +4,7 @@ package EX2;
  * Exercicio 2
  * Faça uma thread Java que realize a leitura de um arquivo texto com frases e exiba as frases a cada 10 segundos.
  *
- * @author Danilo Sambugaro created on 20/08/2019 inside the package - EX1
+ * @author Danilo Sambugaro created on 20/08/2019 inside the package - EX2
  */
 
 public class MainExercicio2 implements Runnable {

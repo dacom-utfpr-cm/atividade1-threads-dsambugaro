@@ -5,7 +5,7 @@ package EX5;
  * Faça uma thread Java que fica aguardando uma sequência numérica de tamanho arbitrário digitado pelo
  * usuário para realizar uma soma. Use o join().
  *
- * @author Danilo Sambugaro created on 20/08/2019 inside the package - EX1
+ * @author Danilo Sambugaro created on 20/08/2019 inside the package - EX5
  */
 
 

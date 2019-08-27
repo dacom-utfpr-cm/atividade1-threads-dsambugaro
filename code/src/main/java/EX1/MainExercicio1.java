@@ -10,7 +10,7 @@ package EX1;
  */
 
 
-public class MainExercicio1 implements Runnable{
+public class MainExercicio1 implements Runnable {
 
     public static void main(String[] args) {
         MainExercicio1 mainExercicio1 = new MainExercicio1();
